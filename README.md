@@ -1,6 +1,6 @@
 
 # Alexa Youtube Player
-This is a lambda function that is created and hosted on Amazon Webs Services.
+This is a lambda function that is created and hosted on Amazon Webs Services.You get up to 1,000,000 Request/Invocations for free from Amazon per month.  
 
 ## Orginal Source
 [JukeBox fork repository](https://github.com/crd/jukebox)
