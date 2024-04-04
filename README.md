@@ -9,4 +9,4 @@ This is a lambda function that is created and hosted on Amazon Webs Services. Yo
 - [Google Cloud Dev Console](https://console.cloud.google.com/)
 - [Amazon Web Service Dev Console](https://us-east-1.console.aws.amazon.com/)
 - [Alexa Dev Console](https://developer.amazon.com/alexa)
-- [Voice Monkey Dev Console](https://console.voicemonkey.io/dashboard)
+- [Virtual Smart Home](https://www.virtualsmarthome.xyz/)
