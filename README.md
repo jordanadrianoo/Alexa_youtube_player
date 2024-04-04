@@ -1,6 +1,6 @@
 
 # Alexa Youtube Player
-This is a lambda function that is created and hosted on Amazon Webs Services. You get 1 million free invoices before they charge you $0.20 for the next million.
+This is a lambda function that is created and hosted on Amazon Webs Services.
 
 ## Orginal Source
 [JukeBox fork repository](https://github.com/crd/jukebox)
@@ -9,4 +9,4 @@ This is a lambda function that is created and hosted on Amazon Webs Services. Yo
 - [Google Cloud Dev Console](https://console.cloud.google.com/)
 - [Amazon Web Service Dev Console](https://us-east-1.console.aws.amazon.com/)
 - [Alexa Dev Console](https://developer.amazon.com/alexa)
-- [Virtual Smart Home](https://www.virtualsmarthome.xyz/)
+- [Virtual Smart Home](https://www.virtualsmarthome.xyz/url_routine_trigger/)
