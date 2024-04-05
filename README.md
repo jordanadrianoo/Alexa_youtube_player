@@ -14,3 +14,9 @@ My ideas foundation is a fork from the [JukeBox fork repository](https://github.
 ## Overview Schematics
 
 <img src="Images/Overview schematics.png">
+
+## Serverless Data Structure
+<img src="Images/Overview Data Management.png">
+
+## Sequence Diagram
+<img src="Images/Overview Sequence Diagram.png">
