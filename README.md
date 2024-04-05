@@ -10,3 +10,6 @@ My ideas foundation is a fork from the [JukeBox fork repository](https://github.
 - [Amazon Web Service Dev Console](https://us-east-1.console.aws.amazon.com/)
 - [Alexa Dev Console](https://developer.amazon.com/alexa)
 - [Virtual Smart Home](https://www.virtualsmarthome.xyz/url_routine_trigger/)
+  
+## Overview Schematics
+![Overveiw behavior]('https://raw.githubusercontent.com/jordanadrianoo/Alexa_youtube_player/main/Images/Overview%20schematics.png)
