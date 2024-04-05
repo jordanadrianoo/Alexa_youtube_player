@@ -20,3 +20,18 @@ My ideas foundation is a fork from the [JukeBox fork repository](https://github.
 
 ## Sequence Diagram
 <img src="Images/Overview Sequence Diagram.png">
+
+## Get Started
+[Placeholder]
+
+## Enviorment Varible
+This is all the areas you will need to replace to get this code running
+- Wifi ID
+- Wifi Password
+- Options 1 - 10 URLS
+- youtube_dl varible
+- Youtube API Key varible
+- Innovoke command
+- RFID List
+- RGB Patterns
+- Alexa Routines
