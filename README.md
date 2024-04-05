@@ -12,4 +12,5 @@ My ideas foundation is a fork from the [JukeBox fork repository](https://github.
 - [Virtual Smart Home](https://www.virtualsmarthome.xyz/url_routine_trigger/)
   
 ## Overview Schematics
-![Overveiw behavior](Images/Overview schematics.png)
+
+<img src="Images/Overview schematics.png">
