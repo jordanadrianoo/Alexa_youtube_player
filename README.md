@@ -3,7 +3,7 @@
 This is a lambda function that is created and hosted on Amazon Webs Services.You get up to 1,000,000 Request/Invocations for free from Amazon per month.  
 
 ## Orginal Source
-[JukeBox fork repository](https://github.com/crd/jukebox)
+My ideas foundation is a fork from the [JukeBox fork repository](https://github.com/crd/jukebox) this repository has provided a majority of the Lambda functionality.
 
 ## Required accounts
 - [Google Cloud Dev Console](https://console.cloud.google.com/)
